@@ -1,11 +1,6 @@
 # MainProjects
 All of my main creations and projects are here 
 
-|
-|
-|
-v
-
 Here's a lil game I made:
 
 📌**The game consists in a basic platformer made in python**
