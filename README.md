@@ -1,5 +1,4 @@
-# MainProjects
-All of my main creations and projects are here 
+#Pygame project
 
 Here's a lil game I made:
 
