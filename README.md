@@ -1,4 +1,4 @@
-#Pygame project
+# Pygame project
 
 Here's a lil game I made:
 
